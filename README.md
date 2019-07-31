@@ -1,5 +1,5 @@
 # vue-sidebar-bode
-
+这是简单实现的一个侧边栏效果，之后会再根据需要加一些样式。
 > test
 
 ## Build Setup
